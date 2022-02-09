@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Alexis",
   middleName: "",
   lastName: "Gonzales",
-  message: " looking forward to expanding my horizons with new tools, technologies, eager to learn and innovate. ",
+  message: "looking forward to expanding my horizons with new tools, technologies, eager to learn and innovate.",
   icons: [
     {
       image: "fa-github",
@@ -17,7 +17,7 @@ const mainBody = {
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/hashirshoaeb/",
+      url: "https://www.linkedin.com/in/AlexisGonzales77/",
     },
     {
       image: "fa-twitter",
@@ -48,7 +48,7 @@ const about = {
   message:
     " My name is Alexis, currently an undergrad majoring in Computer Science at Queens College. I love technology, creating and problem solving, and I love combining the three to create a meaningful user experience for humans. I'm passionate about exploring novel avenues through technology to upgrade the potential of what our society can accomplish "
   
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+  resume: "https://docs.google.com/document/d/12ktLVAbfxRVtST02WgDZIp--xf42K-J07EkrNtj20n0/edit?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -59,7 +59,7 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "hashirshoaeb", //i.e."johnDoe12Gh"
+  gitHubUsername: "AlexisGonzales", //i.e."johnDoe12Gh"
   reposLength: 4,
   specificRepos: [],
 };
@@ -93,11 +93,11 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 50 },
-    { name: "SQL", value: 15 },
+    { name: "Python", value: 40 },
+    { name: "SQL", value: 35 },
     { name: "Data Structures", value: 55 },
-    { name: "C/C++", value: 65 },
-    { name: "JavaScript", value: 90 },
+    { name: "C/C++", value: 75 },
+    { name: "JavaScript", value: 80 },
   //  { name: "React", value: 65 },
     { name: "HTML/CSS", value: 55 },
    // { name: "C#", value: 80 },
